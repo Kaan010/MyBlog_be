@@ -15,5 +15,6 @@ public class KkmyblogApplication implements CommandLineRunner {
 	public void run(String... args) {
 		System.out.println("Hello World");
 		System.out.println("new branch");
+		System.out.println("second commit");
 	}
 }
